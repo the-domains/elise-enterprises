@@ -1,0 +1,28 @@
+name: Elise Enterprises
+favicon: null
+layout_spectrum: 0.8206399087794125
+typography_spectrum: 0.5044326784554869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5877276905812323
+  lightness: 0.598979335045442
+  saturation: 0.11537380609661341
+  rhythmicContrast: 0.3541582452598959
+purpose: []
